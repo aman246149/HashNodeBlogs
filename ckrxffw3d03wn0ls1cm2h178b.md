@@ -49,7 +49,8 @@ class _MyHomePageState extends State<MyHomePage> {
 ``` 
 
 ![WhatsApp Image 2021-08-04 at 5.06.07 PM.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1628077375617/EksseRC6O.jpeg)
+<br>
+<br>
 
-![WhatsApp Image 2021-08-04 at 5.06.07 PM (1).jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1628077385968/Ht4GsJTnV.jpeg)
 
 **Here is a screenShot what it looks like in mobile**
