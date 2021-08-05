@@ -6,7 +6,7 @@ As we all know useState is simply updating our state, in the same way, useReduce
 
 Let's Go and see side by side comparison of Use State and Use Reducer Hook
 
-##some similarities between these two hooks
+## some similarities between these two hooks
 
 | useState 🔴IMPORTANT❗🔴      | UseReducer🔥Cool🔥  |
 | ----------- | ----------- |
