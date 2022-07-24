@@ -13,4 +13,5 @@ and put them in my environment variable path
 
 after that, you can use an android studio or IntelliJ id to switch between your preferred SDK version.
 
-![image.png](Uploading...)
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658629560433/UJi1gv3gC.png align="left")
